@@ -1,8 +1,8 @@
 import React from 'react';
-import Header from './Header';
-import HeroSection from './HeroSection';
-import Login from './Login';
-import Footer from './Footer';
+import Header from './components/Header.js';
+import HeroSection from './components/HeroSection.js';
+import Login from './components/Login.js';
+import Footer from './components/Footer.js';
 
 const Layout = () => {
   return (
